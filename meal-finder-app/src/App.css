@@ -103,7 +103,6 @@ button {
   cursor: pointer;
   background: rgba(192,188,188,0.1);
   border:1px solid white;
-  
 }
 button:hover{
   color:#000;
